@@ -28,6 +28,15 @@ All reports were conducted in controlled lab environments and do not contain sen
 - Metasploit (basic)
 - WinPEAS, LinPEAS
 
+**AWS**
+- AWS CLI
+- Pacu
+
+**Active Directory**
+- nxc, evil-winrm
+- Mimikatz, Rubeus, PowerView
+- Bloodhound, Impacket (psexec, wmiexec, secretsdump, etc.)
+
 ## Reports
 **Web Application Reports**
 - 3 full-scope assessments including vulnerability identification, exploitation and recommended remediations
@@ -37,3 +46,7 @@ All reports were conducted in controlled lab environments and do not contain sen
 
 **Privilege Escalation Reports**
 - 10 labs (5-Linux & 5-Windows) focusing on privilege escalation techniques
+
+**AWS PT Reports**
+- 7 CloudGoat labs focusing on enumeration and exploitation of AWS Vulnerabilities and misconfigurations
+- 6 Stages "flAWS.cloud" challenge for practice of basic enumeration and exploitation of AWS environment
